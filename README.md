@@ -15,7 +15,7 @@ My name is Giuliano Verdone and I'm from Canada.
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,mysql)](https://skills.thijs.gg)
 
-- 👨‍💻 I write code using VSCode on EndeavourOS, but I've already used Eclipse and IntelliJ for school-related JavaFX projects. 
+- 👨‍💻 I write code using VSCode on EndeavourOS or Windows, but I've already used Eclipse and IntelliJ for school-related JavaFX projects. 
 
 [![My Skills](https://skills.thijs.gg/icons?i=vscode,linux,eclipse,idea)](https://skills.thijs.gg)
 
