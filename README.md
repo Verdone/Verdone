@@ -7,7 +7,7 @@ My name is Giuliano Verdone and I'm from Canada.
 - 👀 I'm interested in Web & Desktop development 
 - 🔭 I’m currently working on a REST API project.
 - 💬 My education: Bachelor of Engineering degree, Software Engineering at Concordia University
-- 💻 I'm already familiar with HTML/CSS/JS, Java, and libraries like nodeJS.
+- 💻 I'm have experience with HTML/CSS/JS, Java, and libraries like nodeJS.
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,nodejs)](https://skills.thijs.gg)
 
