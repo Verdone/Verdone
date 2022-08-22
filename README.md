@@ -13,7 +13,7 @@ My name is Giuliano Verdone and I'm from Canada.
     <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs" />
   </a>
 </p>
-- 🌱 I'm currently learning how to use PHP and MySQL.
+- 🌱 I'm currently learning how to use PHP and MySQL for web development.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,mysql" />
