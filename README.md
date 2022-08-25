@@ -20,7 +20,7 @@ My name is Giuliano Verdone and I'm from Canada.
   </a>
 </p>
 
-- 👨‍💻 I write code using VSCode with Git on EndeavourOS or Windows. I've also used Eclipse and IntelliJ for JavaFX projects. 
+- 👨‍💻 I write code using VSCode with Git on EndeavourOS or Windows. In the past, I used Eclipse and IntelliJ for JavaFX projects. 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,linux,eclipse,idea" />
