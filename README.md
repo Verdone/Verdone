@@ -4,7 +4,6 @@ My name is Giuliano Verdone and I'm from Canada.
 
 ### About Me
 
-- 👀 I'm interested in Web & Desktop development
 - 💬 My education: Bachelor of Engineering degree, Software Engineering at Concordia University
 - 💻 I have experience with HTML/CSS/JS, Java, and libraries like nodeJS.
 <p align="center">
