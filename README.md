@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Giuliano Verdone and I'm from Canada.
+My name is Giuliano and I'm from Canada.
 
 ### About Me
 
