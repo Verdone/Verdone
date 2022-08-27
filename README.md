@@ -5,7 +5,7 @@ My name is Giuliano and I'm from Canada.
 ### About Me
 
 - 💬 My education: Bachelor of Engineering degree, Software Engineering at Concordia University
-- 💻 I have experience with HTML/CSS/JS, Java, and libraries like nodeJS
+- 💻 I have experience with HTML/CSS/JS, Java, and libraries such as nodeJS
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs" />
