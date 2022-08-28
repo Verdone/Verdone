@@ -12,7 +12,7 @@ My name is Giuliano and I'm from Canada.
   </a>
 </p>
 
-- 🌱 I'm currently learning how to use PHP and MySQL for web development
+- 🌱 I'm currently learning how to use PHP and MySQL as part of full-stack web development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,mysql" />
