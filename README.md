@@ -14,11 +14,13 @@ My name is Giuliano and I'm from Canada.
 
 ### Bio
 - 🧠 Interested in web development & machine learning
-- 💻 I have experience with HTML/CSS/JS, PHP, MySQL, Java, and libraries such as nodeJS.
+- 💻 I have experience with Java, HTML/CSS/JS, PHP, MySQL, and libraries such as nodeJS.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,nodejs" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verdone&layout=compact&theme=dark)](https://github.com/Verdone/github-readme-stats)
 
 - 📫 You can reach me at my email, giulianoverdone@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/giuliano-verdone-33186921b/)!
