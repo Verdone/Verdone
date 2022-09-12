@@ -8,7 +8,7 @@ My name is Giuliano and I'm from Canada. I have roughly three years of experienc
 - 🌱 I am learning Python, as well as cloud and container concepts.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,aws,docker" />
   </a>
 </p>
 
