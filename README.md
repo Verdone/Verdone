@@ -14,10 +14,10 @@ My name is Giuliano and I'm from Canada. I have roughly three years of experienc
 
 ### Bio
 - 🧠 Interested in full stack web development & machine learning
-- 💻 So far, I have experience with Java, HTML/CSS/JS, PHP, MySQL, and libraries such as nodeJS.
+- 💻 So far, I have experience with the following technologies:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,nodejs" />
+  <a href="Java, HTML/CSS/JS, PHP, MySql, C#, Bootsrap, Node.js, jQuery">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,cs,bootstrap,nodejs,jquery,linux" />
   </a>
 </p>
 
