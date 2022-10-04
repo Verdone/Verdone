@@ -30,4 +30,4 @@ My name is Giuliano and I'm from Canada. I have roughly three years of experienc
 ### Contact Me
 - 📫 You can reach me through my email, giulianoverdone@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/giuliano-verdone-33186921b/)!
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verdone&layout=compact&theme=dark)](https://github.com/Verdone/github-readme-stats)
+
