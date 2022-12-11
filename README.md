@@ -11,7 +11,7 @@ My name is Giuliano and I'm from Canada. I have roughly three years of experienc
 <hr>
 
 ### Bio
-> - 🧠 Interested in simulations, full stack web development, and machine learning
+> - 🧠 Interested in XR, full stack web development, and machine learning
 > - 💻 I have experience with the following technologies:
 <p align="center">
   <a href="Skill_Icons - Java, HTML/CSS/JS, PHP, MySql, Python, C#, Node.js, Linux">
