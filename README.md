@@ -6,19 +6,13 @@ My name is Giuliano and I'm from Canada. I have roughly three years of experienc
 
 ### Currently
 
-> - 🎓 Student at Concordia University - Bachelor of Engineering, Software Engineering Co-op
-> - 🌱 Learning cloud and container concepts:
-<p align="center">
-  <a href="Skill_Icons - AWS, Docker">
-    <img src="https://skillicons.dev/icons?i=aws,docker" />
-  </a>
-</p>
+> - 🎓 Year 1 Student at Concordia University - B.Eng, Software Engineering Co-op
 
 <hr>
 
 ### Bio
 > - 🧠 Interested in full stack web development & machine learning
-> - 💻 So far, I have experience with the following technologies:
+> - 💻 I have experience with the following technologies:
 <p align="center">
   <a href="Skill_Icons - Java, HTML/CSS/JS, PHP, MySql, Python, C#, Node.js, Linux">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,python,cs,nodejs,linux" />
