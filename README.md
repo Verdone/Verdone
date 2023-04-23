@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Giuliano and I'm from Canada. I have roughly three years of experience related to object-oriented programming. 👨‍💻 
+My name is Giuliano and I'm from Canada.
 
 <hr>
 
