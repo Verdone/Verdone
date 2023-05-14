@@ -14,8 +14,8 @@ My name is Giuliano and I'm from Canada.
 > - 🧠 Interested in XR, full stack web development, and machine learning
 > - 💻 I have experience with the following technologies:
 <p align="center">
-  <a href="Skill_Icons - Java, HTML/CSS/JS, PHP, MySql, Python, C#, Node.js, Linux">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,python,cs,nodejs,linux" />
+  <a href="Skill_Icons - Java, React, PHP, MySql, Python, C#, Node.js, Linux">
+    <img src="https://skillicons.dev/icons?i=java,react,php,mysql,python,cs,nodejs,linux" />
   </a>
 </p>
 
