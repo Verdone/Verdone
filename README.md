@@ -23,5 +23,3 @@ My name is Giuliano and I'm from Canada.
 
 ### Contact Me
 - 📫 You can reach me through my email, giulianoverdone@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/giuliano-verdone-33186921b/)!
-
-
