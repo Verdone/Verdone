@@ -6,17 +6,19 @@ My name is Giuliano and I'm from Canada.
 
 ### Currently
 
-> - 🎓 Year 2 Student at Concordia University - B.Eng, Software Engineering Co-op
+> - 🎓 Year 2 Undergraduate Student at Concordia University - B.Eng, Software Engineering
 
 <hr>
 
 ### Bio
-> - 🧠 Interested in XR, full stack web development, and machine learning
+> - 🧠 Interested in math, XR, full stack web development, and machine learning
 > - 💻 I have experience with the following technologies:
 <p align="center">
-  <a href="Skill_Icons - Java, Javascript, React, PHP, MySql, Python, C#, Node.js, Linux">
-    <img src="https://skillicons.dev/icons?i=java,javascript,react,php,mysql,python,cs,nodejs,linux" />
+  <a href="Skill_Icons - Java, Javascript, React, Node.js, Express.js, Python, PostgreSQL, Linux">
+    <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,python,postgres,linux" />
   </a>
+  <br/>
+  and some familiarity with a few more languages - PHP, C, and Clojure - from my undergrad classes.
 </p>
 
 <hr>
