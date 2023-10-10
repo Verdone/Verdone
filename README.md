@@ -8,8 +8,8 @@ My name is Giuliano and I'm from Canada.
 
 - 💡 Software Developer intern at Ideva - a startup that provides software solutions to clients.
 - 🎓 Year 2 Undergraduate Student at Concordia University - B.Eng, Software Engineering
-- 📰 VP Communications at Concordia's Software & Computer Science Society
-- 🤝 VP Sponsorships at Concordia's Google Developer Student Club 
+- 📰 Vice-President of Communications at Concordia's Software & Computer Science Society
+- 🤝 Vice-President of Sponsorships at Concordia's Google Developer Student Club 
 
 <hr>
 
