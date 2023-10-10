@@ -6,19 +6,22 @@ My name is Giuliano and I'm from Canada.
 
 ### Currently
 
-> - 🎓 Year 2 Undergraduate Student at Concordia University - B.Eng, Software Engineering
+- 💡 Software Developer intern at Ideva - a startup that provides software solutions to clients.
+- 🎓 Year 2 Undergraduate Student at Concordia University - B.Eng, Software Engineering
+- 📰 VP Communications at Concordia's Software & Computer Science Society
+- 🤝 VP Sponsorships at Concordia's Google Developer Student Club 
 
 <hr>
 
 ### Bio
-> - 🧠 Interested in math, XR, full stack web development, and machine learning
-> - 💻 I have experience with the following technologies:
+- 🧠 Interested in math, XR, full stack web development, and machine learning
+- 💻 I have experience with the following technologies:
 <p align="center">
   <a href="Skill_Icons - Java, Javascript, React, Node.js, Express.js, Python, PostgreSQL, Linux">
     <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,python,postgres,linux" />
   </a>
   <br/>
-  and some familiarity with a few more languages - PHP, C, and Clojure - from my undergrad classes.
+  <small>(and familiarity with PHP, C, and Clojure from my undergrad classes.)</small>
 </p>
 
 <hr>
