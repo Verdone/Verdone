@@ -14,14 +14,11 @@ My name is Giuliano and I'm from Canada.
 <hr>
 
 ### Bio
-- 🧠 Interested in math, XR, full stack web development, and machine learning
 - 💻 I have experience with the following technologies:
 <p align="center">
-  <a href="Skill_Icons - Java, Javascript, React, Node.js, Express.js, Python, PostgreSQL, Linux">
-    <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,python,postgres,linux" />
+  <a href="Skill_Icons - Java, Javascript, TypeScript, Svelte, React, Next.js, Node.js, Express.js, Python, PostgreSQL, Linux">
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,svelte,react,nextjs,nodejs,express,python,postgres,linux" />
   </a>
-  <br/>
-  <small>(and familiarity with PHP, C, and Clojure from my undergrad classes.)</small>
 </p>
 
 <hr>
