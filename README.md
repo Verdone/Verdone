@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Giuliano and I'm from Canada.
+My name is Giuliano and I'm from Canada. I am a Year 2 Undergraduate Student at Concordia University pursuing a B.Eng in Software Engineering.
 
 <hr>
 
