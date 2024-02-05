@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Giuliano and I'm from Canada. I am a Year 2 Undergraduate Student at Concordia University pursuing a B.Eng in Software Engineering.
+My name is Giuliano and I'm from Canada. I am seeking a Summer 2024 internship as I pursue my B.Eng in Software Engineering at Concordia University.
 
 <hr>
 
