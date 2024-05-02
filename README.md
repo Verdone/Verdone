@@ -15,4 +15,4 @@ My name is Giuliano and I'm from Canada.
 <hr>
 
 ### Contact Me
-- 📫 You can reach me through my email, giulianoverdone@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/giuliano-verdone-33186921b/)!
+- 📫 You can reach me through my email, g_verdon@live.concordia.ca, or connect with me on [LinkedIn](https://www.linkedin.com/in/giuliano-verdone-33186921b/)!
