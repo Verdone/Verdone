@@ -7,8 +7,8 @@ My name is Giuliano and I'm from Canada.
 ### Bio
 - 💻 I have experience with the following technologies:
 <p align="center">
-  <a href="Skill_Icons - Java, Javascript, TypeScript, Svelte, React, Next.js, Node.js, Express.js, Python, PostgreSQL, Linux">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,svelte,react,nextjs,nodejs,express,python,postgres,linux" />
+  <a href="Skill_Icons - Java, Javascript, TypeScript, Svelte, React, Next.js, Python, PostgreSQL, Supabase, Linux">
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,svelte,react,nextjs,python,postgres,supabase,linux" />
   </a>
 </p>
 
