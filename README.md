@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
 My name is Giuliano and I'm from Canada.
 
 <hr>
 
 ### Bio
-- 💻 I have experience in web development with:
+- 💻 I have experience making software with:
 <p align="center">
   <a href="Skill_Icons - Java, Javascript, TypeScript, Svelte, React, Next.js, Python, PostgreSQL, Supabase, Linux, Docker">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,svelte,react,nextjs,python,postgres,supabase,linux,docker" />
